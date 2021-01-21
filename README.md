@@ -1,13 +1,26 @@
-# README
+# Latinx in Tech Job Board
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a Rails/Vue project for a Latinx in Tech Job Board.
 
-Things you may want to cover:
+## Ruby version
 
-* Ruby version
+This application runs on Ruby 2.7.0 and Rails 6.0
 
-* System dependencies
+## VueJS version
+
+This application uses VueJS 2.6
+
+## System dependencies
+
+You must have [RubyGems](https://rubygems.org/pages/download) and [Yarn](https://classic.yarnpkg.com/en/docs/install/) installed.
+
+## Setup
+
+Run `bin/setup`
+
+## Everything else...
+
+TBD
 
 * Configuration
 
@@ -22,4 +35,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
->>>>>>> 32657c3... initialize rails/vue project
